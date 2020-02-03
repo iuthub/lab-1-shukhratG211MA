@@ -1,2 +1,0 @@
-curl -- data - urlencode" email=test@example.com "
-curl-- data - urlencode" name=Boolean World" https://httpbin.org/post
