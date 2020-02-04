@@ -1,0 +1,2 @@
+curl -- data ’{" email ":" test@example . com ", " name ": [" Boolean ", " World "]} ’
+curl -H ’ Content-Type: application/json’ https:// httpbin . org / post
